@@ -2,7 +2,7 @@ Summary:	Standard MIDI File library
 Summary(pl.UTF-8):	Biblioteka obsługi formatu Standard MIDI File
 Name:		libsmf
 Version:	1.3
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/libsmf/%{name}-%{version}.tar.gz
