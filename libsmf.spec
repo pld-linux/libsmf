@@ -1,3 +1,5 @@
+# NOTE: original maintenance (at sf.net) stopped in 2010
+# some continuation from 2013 is available at https://github.com/stump/libsmf
 Summary:	Standard MIDI File library
 Summary(pl.UTF-8):	Biblioteka obsługi formatu Standard MIDI File
 Name:		libsmf
